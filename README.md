@@ -1,3 +1,3 @@
 # jordanrepo
 jordan's repo
-Partner: Zhongjie RuanSFSDFS
+This might cause a merge conflict
