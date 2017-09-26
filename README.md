@@ -1,3 +1,4 @@
 # jordanrepo
 jordan's repo
-This might cause a merge conflict
+git commit -m " chanegs" 
+git commit -m " chanegs" 
